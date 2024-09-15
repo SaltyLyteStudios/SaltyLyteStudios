@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am an Electrical Engineering Student 👋
 
 <!--
 - 🔭 I’m currently working on a project for an Engineering class
